@@ -13,7 +13,7 @@
 > [React・フロント編](/review/react.md)<br>
 > [レベル別Gitフロー](/review/git.md)<br>
 > <br>
-> [typescript・React雑学習(一歩進んだ話)](/typescript/)<br>
+> [typescript・React雑学集(一歩進んだ話)](/typescript/)<br>
 
 > [!TIP]
 > (初学者がこれ見るとビビるかもなのでアドバイス)<br>
