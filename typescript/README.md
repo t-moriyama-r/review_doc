@@ -5,3 +5,4 @@
 
 ## 目次
 [Utility Typesを使いこなして気持ちよくなろう](./util.md)
+[コールシグネチャとinterface](./call.md)
