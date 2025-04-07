@@ -7,7 +7,7 @@
 > [!NOTE]
 > 【目次】<br>
 > [コード編1(初学者向け)](/review/code_1.md)<br>
-> [コード編2(1年目向け)](/review/code_2.md)<br>
+> [コード編2(1～2年目向け)](/review/code_2.md)<br>
 > [イディオム編(頻出ロジック)](/review/idiom.md)<br>
 > [作業の進め方・プルリク編](/review/pull.md)<br>
 > [React・フロント編](/review/react.md)<br>
