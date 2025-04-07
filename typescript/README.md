@@ -7,3 +7,4 @@
 [Utility Typesを使いこなして気持ちよくなろう](./util.md)<br>
 [コールシグネチャとinterface](./call.md)<br>
 [宣言マージとモジュール拡張](./merge.md)<br>
+[リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
