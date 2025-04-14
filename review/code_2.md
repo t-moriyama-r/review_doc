@@ -780,7 +780,7 @@ const TableRow({column}:{column:GridColDef}){
 
 GridColDefはMUIで使われてるカラムの型なんですが、これジェネリクスが効くんですよ。
 
-![参考画像](https://github.com/t-moriyama-r/review_doc/blob/25da8725c79e2e598b427d31523104c2a3c1a66c/80c266c7-6e52-4afc-830c-039e7eaea3d9.png)
+![参考画像](https://github.com/t-moriyama-r/review_doc/blob/25da8725c79e2e598b427d31523104c2a3c1a66c/80c266c7-6e52-4afc-830c-039e7eaea3d9.png)<br>
 全然関係ない例なんですが、エディタとかでオンマウスで関数の説明とか出てくるんですけど、例えばこの`ref`とかいう関数はジェネリクス(<T>の部分)を受け付けてるらしいみたいな情報が得られるわけですね。このジェネリクスが何を示すかはだいたい雰囲気でわかります。わからなかったらドキュメントを見るか、**chatGPTに説明させればいい**です。
 
 話を戻すと、`GridColDef`のジェネリクスはカラムの型を指定できます。テーブルのカラムにくっついたジェネリクスとかそれ以外に何があるんだよって話ですね。
