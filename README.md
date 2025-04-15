@@ -12,6 +12,7 @@
 [useEffect(副作用)について](/review/react.md#useEffect副作用)→useEffectは難読化につながることを意識する<br>
 
 (応用的なこと)<br>
+[Contextとレンダリング](/typescript/context.md)→リレンダリングのタイミングを理解する(あとちょっとしたライブラリ紹介)
 [二者択一は型にやらせる](/typescript/choice.md)→論理構造を型レベルで限定することで余計な分岐を減らす(neverとか活用できます)<br>
 [Utility Typesを使いこなして気持ちよくなろう](/typescript/util.md)→typescriptの汎用型システムの理解<br>
 [コールシグネチャとinterface](/typescript/call.md)→引数の形でtype-narrowingも可能という話<br>
