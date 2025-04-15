@@ -9,3 +9,4 @@
 [宣言マージとモジュール拡張](./merge.md)<br>
 [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
 [二者択一は型にやらせる](./choice.md)<br>
+[Contextとレンダリング](./context.md)
