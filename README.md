@@ -17,6 +17,8 @@
 [Utility Typesを使いこなして気持ちよくなろう](/typescript/util.md)→typescriptの汎用型システムの理解<br>
 [コールシグネチャとinterface](/typescript/call.md)→引数の形でtype-narrowingも可能という話<br>
 [宣言マージとモジュール拡張](/typescript/merge.md)→ライブラリを拡張する話<br>
+<br>
+[React v19](./v19.md)→自主的にキャッチアップした時の記事<br>
 
 このあたりをご覧になられると、作業者としての姿勢を伝えられるかと思っています。<br>より深いレベルの話は面談で聞いてもらえると答えられるかと思います。
 
