@@ -230,3 +230,14 @@ const dispatches = useContext(context);
   }, [name]);
 ```
 どうやら、`Context`から受け取った`Ref`オブジェクトに`State`をぶち込む思想らしいが、これってもはやストアなのでは･･････？ということで、有害図書扱いされてるみたい。(笑)
+
+
+> **Typescript雑学メモ 目次**<br>
+> [Utility Typesを使いこなして気持ちよくなろう](./util.md)<br>
+> [コールシグネチャとinterface](./call.md)<br>
+> [宣言マージとモジュール拡張](./merge.md)<br>
+> [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
+> [二者択一は型にやらせる](./choice.md)<br>
+> Contextとレンダリング←ここ<br>
+> <br>
+> [React v19](./v19.md)
