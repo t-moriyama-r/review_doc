@@ -6,7 +6,7 @@
 > [宣言マージとモジュール拡張](./merge.md)<br>
 > [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
 > 二者択一は型にやらせる←ここ<br>
-> [Contextとレンダリング](./context.md)
+> [Contextとレンダリング](./context.md)<br>
 > <br>
 > [React v19](./v19.md)
 
@@ -120,6 +120,6 @@ type DialogProps={
 > [宣言マージとモジュール拡張](./merge.md)<br>
 > [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
 > 二者択一は型にやらせる←ここ<br>
-> [Contextとレンダリング](./context.md)
+> [Contextとレンダリング](./context.md)<br>
 > <br>
 > [React v19](./v19.md)
