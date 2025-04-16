@@ -102,3 +102,14 @@ axios.get('/api/data', config); // OK！
 
 
 このテクニックは、**ライブラリが絡んだ何かに独自処理を挟む必要がでてくる**際に活用できると思います。
+
+
+> **Typescript雑学メモ 目次**<br>
+> [Utility Typesを使いこなして気持ちよくなろう](./util.md)<br>
+> [コールシグネチャとinterface](./call.md)<br>
+> 宣言マージとモジュール拡張←ここ<br>
+> [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
+> [二者択一は型にやらせる](./choice.md)<br>
+> [Contextとレンダリング](./context.md)
+> <br>
+> [React v19](./v19.md)
