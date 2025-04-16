@@ -1,5 +1,15 @@
 # 宣言マージとモジュール拡張
 
+> **Typescript雑学メモ 目次**<br>
+> [Utility Typesを使いこなして気持ちよくなろう](./util.md)<br>
+> [コールシグネチャとinterface](./call.md)<br>
+> 宣言マージとモジュール拡張←ここ<br>
+> [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
+> [二者択一は型にやらせる](./choice.md)<br>
+> [Contextとレンダリング](./context.md)
+> <br>
+> [React v19](./v19.md)
+
 ## 宣言マージ(declaration merging)
 
 既存の型定義では賄えない独自のフィールドを付与したい時があります。
