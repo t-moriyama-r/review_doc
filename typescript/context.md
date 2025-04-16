@@ -1,4 +1,17 @@
 # Contextのレンダリングについて
+
+> **Typescript雑学メモ 目次**<br>
+> [Utility Typesを使いこなして気持ちよくなろう](./util.md)<br>
+> [コールシグネチャとinterface](./call.md)<br>
+> [宣言マージとモジュール拡張](./merge.md)<br>
+> [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
+> [二者択一は型にやらせる](./choice.md)<br>
+> Contextとレンダリング←ここ<br>
+> <br>
+> [React v19](./v19.md)
+
+
+
 Contextは便利だが、リレンダリングを誘発するものという印象がある。その部分を言語化して教えられるレベルに持っていこうという話。
 
 ## Contxtとリレンダリングの基本
