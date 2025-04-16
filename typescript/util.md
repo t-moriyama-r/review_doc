@@ -1,7 +1,7 @@
 # Utility Typesを使いこなして気持ちよくなろう
 
 > **Typescript雑学メモ 目次**<br>
-> Utility Typesを使いこなして気持ちよくなろう←ここ
+> Utility Typesを使いこなして気持ちよくなろう←ここ<br>
 > [コールシグネチャとinterface](./call.md)<br>
 > [宣言マージとモジュール拡張](./merge.md)<br>
 > [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
