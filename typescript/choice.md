@@ -113,3 +113,13 @@ type DialogProps={
 <Dialog text="ダミー">あああ</Dialog>
 ```
 こんな風に、型で制限を加えることで直感的なコンポーネント、およびインターフェースの命名を行うことができる。活かせるパターンは結構あると思います。
+
+> **Typescript雑学メモ 目次**<br>
+> [Utility Typesを使いこなして気持ちよくなろう](./util.md)<br>
+> [コールシグネチャとinterface](./call.md)<br>
+> [宣言マージとモジュール拡張](./merge.md)<br>
+> [リファクタサンプル：型で論理構造を表現する](./struct.md)<br>
+> 二者択一は型にやらせる←ここ<br>
+> [Contextとレンダリング](./context.md)
+> <br>
+> [React v19](./v19.md)
